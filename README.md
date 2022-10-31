@@ -33,7 +33,7 @@ Please try to follow these guidelines:
 
 ## How to Contribute
 
-> **Note 1:** If you've never made a pull request before, or participated in an open-source project, we recommend taking a look at this [wonderful video tutorial](https://youtu.be/ZI2D0CI4TXs). And if you want a more complete tutorial on using github, creating branches etc. , [here's a detailed video series](https://www.youtube.com/watch?v=3RjQznt-8kE&list=PL4cUxeGkcC9goXbgTDQ0n_4TBzOO0ocPR).Once you've got your feet wet, you're ready to come back and dive into Hacktoberfest fun!
+> **Note 1:** If you've never made a pull request before, or participated in an open-source project, we recommend taking a look at this [wonderful video tutorial](https://youtu.be/ZI2D0CI4TXs). And if you want a more complete tutorial on using github, creating branches etc. Once you've got your feet wet, you're ready to come back and dive into Hacktoberfest fun!
 
 > **Note 2:** **Super Important** Only the pull requests created between October 1st, 2021 and October 31st, 2021 will be counted!
 
